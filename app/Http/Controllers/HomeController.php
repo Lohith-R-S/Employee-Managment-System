@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\User;
 
 class HomeController extends Controller
 {
@@ -28,6 +29,7 @@ class HomeController extends Controller
 
     public function handleAdmin()
     {
-        return view('handleAdmin');
+        $users = User::select('*')->where('is_admin','=','0')->get();
+        return view('handleAdmin',compact('users'));
     }    
 }
