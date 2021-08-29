@@ -1,0 +1,7 @@
+[
+    {"name": "Admin", "email" : "admin@users.com", "mobile" : "1234567890","designation" : "Admin","salary" : 0,"password" : "$2y$10$PDedmhdzFq7bOZMllDEHgOqAge2WJnZCh9Q6eujBTC10Qm3Y1ndoK","is_admin" : 1 },
+    {"name": "Lohith", "email" : "lohith@users.com", "mobile" : "1234567890","designation" : "Engineer","salary" : 50000,"password" : "$2y$10$PDedmhdzFq7bOZMllDEHgOqAge2WJnZCh9Q6eujBTC10Qm3Y1ndoK","is_admin" : 0 },
+    {"name": "Amith", "email" : "amith@users.com", "mobile" : "1234567890","designation" : "Jr Engineer","salary" : 25000,"password" : "$2y$10$PDedmhdzFq7bOZMllDEHgOqAge2WJnZCh9Q6eujBTC10Qm3Y1ndoK","is_admin" : 0 },
+    {"name": "Sumith", "email" : "sumith@users.com", "mobile" : "1234567890","designation" : "Sr Engineer","salary" : 100000,"password" : "$2y$10$PDedmhdzFq7bOZMllDEHgOqAge2WJnZCh9Q6eujBTC10Qm3Y1ndoK","is_admin" : 0 },
+    {"name": "Punith", "email" : "punith@users.com", "mobile" : "1234567890","designation" : "Intern","salary" : 15000,"password" : "$2y$10$PDedmhdzFq7bOZMllDEHgOqAge2WJnZCh9Q6eujBTC10Qm3Y1ndoK","is_admin" : 0 }
+]

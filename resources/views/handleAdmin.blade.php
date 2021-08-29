@@ -14,6 +14,9 @@
         <div class="col-md-8">
             <center><h3>View all Employees</h3></center>
             <br>
+             
+                     <a href="{{ url('/userdata') }}">Download Employees Data</a>
+                     
             <table class="table">
                 <thead class="thead-dark">
                     <tr>
